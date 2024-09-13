@@ -21,8 +21,12 @@
   <a href="https://www.credly.com/badges/0b231cc3-d4f7-439a-bfb3-aa32c40764df/public_url"><img src="./images/Intro2IoT.png" height="80" alt="Introduction to IoT"></a>
   <a href="https://www.credly.com/badges/cfebd2c4-9717-438a-bf61-a1647a5368fb/public_url"><img src="./images/I2CS__1_.png" height="80" alt="Introduction to Cybersecurity"></a>
 </div>
-<br>
-<br>
+
+<div align="center">
+  <h3>Top 5 worst languages:</h3>
+  <img src='./images/VBA.svg' height="60">
+  <img src='./images/VB.NET_Logo.svg' height="60">
+</div>
 <div align="center">
   <img align="center" src="./IMG_2171.gif" height="200"/>
 </div>
